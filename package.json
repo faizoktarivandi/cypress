@@ -1,0 +1,11 @@
+{
+  "name": "CypressNonBDD",
+  "version": "1.0.0",
+  "description": "Automate without BDD",
+  "main": "index.js",
+  "author": "Faiz Oktarivandi",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
